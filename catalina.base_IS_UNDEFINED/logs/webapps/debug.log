@@ -1,0 +1,12 @@
+2018-09-03 20:42:32.707 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id is not null ORDER BY priority DESC 
+2018-09-03 20:42:32.833 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2018-09-03 20:42:32.871 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - <==      Total: 0
+2018-09-03 20:43:28.036 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id is not null ORDER BY priority DESC 
+2018-09-03 20:43:28.097 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2018-09-03 20:43:28.139 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - <==      Total: 0
+2018-09-03 21:00:31.164 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id is not null ORDER BY priority DESC 
+2018-09-03 21:00:31.362 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2018-09-03 21:00:31.411 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - <==      Total: 0
+2018-09-03 21:07:33.795 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2018-09-03 21:07:33.862 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2018-09-03 21:07:33.972 [main] DEBUG com.zs.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
